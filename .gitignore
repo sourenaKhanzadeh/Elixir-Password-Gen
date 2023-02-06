@@ -24,3 +24,5 @@ elixir_password_gen-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+*.swp

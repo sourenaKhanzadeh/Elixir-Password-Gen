@@ -78,4 +78,3 @@ defmodule ElixirPasswordGenTest do
 end
 
 
-end
